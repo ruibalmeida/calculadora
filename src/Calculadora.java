@@ -5,7 +5,7 @@ public class Calculadora {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Primeiro numero:");
-		double x = sc.nextDouble();
+		double x = sc.nextDouble(); 
 		System.out.println("Segundo numero:");
 		double y = sc.nextDouble();
 		System.out.println("Operacao (+ ,- , *, / ):");
