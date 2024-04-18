@@ -7,7 +7,7 @@ public class Calculadora {
 		System.out.println("Primeiro numero:");
 		double x = sc.nextDouble();
 		System.out.println("Segundo numero:");
-		double y = sc.nextDouble();
+		double y = sc.nextDouble(); 
 		System.out.println("Operacao (+ ,- , *, / ):");
 		String operator = sc.next();
 
